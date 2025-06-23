@@ -11,5 +11,18 @@
     "express": "^4.21.0",
     "node-thermal-printer": "^4.5.0",
     "uuid": "^11.1.0"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valtrilabs/backend_valtri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valtrilabs/backend_valtri/issues"
+  },
+  "homepage": "https://github.com/valtrilabs/backend_valtri#readme",
+  "description": ""
 }
