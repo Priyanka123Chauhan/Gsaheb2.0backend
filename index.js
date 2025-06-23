@@ -10,7 +10,7 @@ const port = process.env.PORT || 3001;
 app.use(cors({
   origin: function (origin, callback) {
     const allowedOrigins = [
-      'https://gsaheb2-0frontend-1btf.vercel.app/',
+      'https://gsaheb2-0frontend-1btf.vercel.app',
       'http://localhost:3000',
       'http://localhost:3001'
     ];
